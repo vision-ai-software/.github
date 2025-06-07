@@ -1,3 +1,5 @@
+![Vision AI Cover](image1)
+
 # Vision AI
 
 Welcome to the official GitHub organization for **Vision AI**!
