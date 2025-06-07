@@ -1,4 +1,6 @@
-![Vision AI Cover](profile/cover.jpg)
+![Vision AI Cover](https://drive.google.com/file/d/14IT8WZao4wm8ZsQ2Zh1P11u-T5NrdyS5/view?usp=sharing)
+
+
 
 # Vision AI
 
