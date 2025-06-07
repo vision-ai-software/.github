@@ -1,4 +1,4 @@
-![Vision AI Cover](image1.jpg)
+![Vision AI Cover](cover)
 
 # Vision AI
 
